@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_about_me"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        app:showAsAction="never"
+        android:title="About Me" />
+
+    <item android:id="@+id/action_about_me_action"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:showAsAction="always"
+        android:title="About Me" />
+
+</menu>
